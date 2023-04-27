@@ -1,0 +1,1216 @@
+27-04-2023 14:29:11.302 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 29273 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 14:29:11.304 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 14:29:11.304 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 14:29:32.844 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 29296 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 14:29:32.845 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 14:29:32.845 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 14:31:00.282 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 29383 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 14:31:00.283 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 14:31:00.284 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 14:31:29.611 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 29416 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 14:31:29.612 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 14:31:29.613 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 14:31:41.938 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 29426 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 14:31:41.939 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 14:31:41.940 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 14:32:19.398 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 29481 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 14:32:19.399 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 14:32:19.400 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 14:32:28.002 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 29487 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 14:32:28.003 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 14:32:28.003 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 14:32:28.569 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.727 seconds (JVM running for 0.939)
+27-04-2023 14:32:29.573 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:32:29.591 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682580749574 and price=5.0630733074739333E18
+27-04-2023 14:32:49.587 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:32:49.590 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682580769588 and price=6.6438889647993252E18
+27-04-2023 14:33:09.592 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:33:09.592 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682580789592 and price=-8.5727537224503972E18
+27-04-2023 14:33:29.594 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:33:29.596 [task-4] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682580809596 and price=-3.0465605530968197E18
+27-04-2023 14:33:49.597 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:33:49.598 [task-5] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682580829598 and price=2.8301236381909453E18
+27-04-2023 14:34:01.523 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 29575 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 14:34:01.524 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 14:34:01.524 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 14:34:02.053 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.677 seconds (JVM running for 1.033)
+27-04-2023 14:34:03.056 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:34:03.070 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682580843057 and price=3.2545459226187725E17
+27-04-2023 14:34:23.066 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:34:23.067 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682580863067 and price=2.06929824079691776E18
+27-04-2023 14:34:34.128 [http-nio-8080-exec-1] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:34:34.128 [http-nio-8080-exec-1] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:34:37.361 [http-nio-8080-exec-2] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:34:37.363 [http-nio-8080-exec-2] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:34:38.903 [http-nio-8080-exec-4] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:34:38.905 [http-nio-8080-exec-4] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:34:43.073 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:34:43.075 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682580883074 and price=7.2851306233024983E18
+27-04-2023 14:34:46.377 [http-nio-8080-exec-5] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:34:46.378 [http-nio-8080-exec-5] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:35:03.353 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 29640 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 14:35:03.354 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 14:35:03.354 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 14:36:00.377 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 57.202 seconds (JVM running for 57.523)
+27-04-2023 14:36:01.379 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:36:01.389 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682580961379 and price=1.64403358957840486E18
+27-04-2023 14:36:03.488 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 29695 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 14:36:03.489 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 14:36:03.489 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 14:38:35.034 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 151.718 seconds (JVM running for 151.991)
+27-04-2023 14:38:36.031 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:38:36.040 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581116032 and price=-1.35292460377541043E18
+27-04-2023 14:38:50.061 [http-nio-8080-exec-1] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:38:50.061 [http-nio-8080-exec-1] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:38:50.939 [http-nio-8080-exec-2] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:38:50.939 [http-nio-8080-exec-2] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:38:51.636 [http-nio-8080-exec-3] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:38:51.637 [http-nio-8080-exec-3] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:38:56.037 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:38:56.038 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581136038 and price=3.2680890183092091E18
+27-04-2023 14:39:16.043 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:39:16.049 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581156047 and price=4.8000678668115814E18
+27-04-2023 14:39:36.054 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:39:36.058 [task-4] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581176056 and price=8.4102466126540319E18
+27-04-2023 14:39:56.063 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:39:56.066 [task-5] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581196065 and price=7.6966197820716012E18
+27-04-2023 14:40:16.070 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:40:16.073 [task-6] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581216072 and price=4.2395015060739999E18
+27-04-2023 14:40:36.078 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:40:36.082 [task-7] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581236079 and price=6.539619920898089E18
+27-04-2023 14:40:56.085 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:40:56.088 [task-8] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581256086 and price=-7.4227893180004147E18
+27-04-2023 14:41:16.091 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:41:16.096 [task-9] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581276092 and price=6.6322168252045056E18
+27-04-2023 14:41:36.101 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:41:36.103 [task-10] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581296102 and price=-8.2796978292146422E18
+27-04-2023 14:41:56.108 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:41:56.109 [task-11] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581316108 and price=-1.23533331268996173E18
+27-04-2023 14:42:16.114 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:42:16.116 [task-12] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581336115 and price=-1.24259772641028838E18
+27-04-2023 14:42:36.121 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:42:36.125 [task-13] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581356123 and price=8.3269662353118484E18
+27-04-2023 14:42:56.127 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:42:56.130 [task-14] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581376128 and price=-7.3753337224827126E18
+27-04-2023 14:43:16.135 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:43:16.139 [task-15] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581396137 and price=-9.195192798544383E18
+27-04-2023 14:43:36.142 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:43:36.143 [task-16] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581416143 and price=7.8847417100333189E18
+27-04-2023 14:43:56.144 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:43:56.148 [task-17] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581436147 and price=2.8501008895902474E18
+27-04-2023 14:44:16.149 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:44:16.150 [task-18] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581456150 and price=-2.23936711460604851E18
+27-04-2023 14:44:36.155 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:44:36.159 [task-19] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581476157 and price=6.9001300875925361E18
+27-04-2023 14:44:56.164 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:44:56.166 [task-20] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581496165 and price=8.8774691836779643E18
+27-04-2023 14:45:16.171 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:45:16.175 [task-21] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581516174 and price=-1.26039142998561632E17
+27-04-2023 14:45:36.176 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:45:36.179 [task-22] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581536177 and price=-1.0808261477906688E18
+27-04-2023 14:45:56.184 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:45:56.187 [task-23] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581556186 and price=8.7481599972284273E18
+27-04-2023 14:46:16.191 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:46:16.192 [task-24] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581576192 and price=-1.11172670092892634E18
+27-04-2023 14:46:36.197 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:46:36.198 [task-25] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581596198 and price=7.9985705191811267E18
+27-04-2023 14:46:56.203 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:46:56.206 [task-26] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581616205 and price=-6.8763915122170204E18
+27-04-2023 14:47:16.211 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:47:16.216 [task-27] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581636214 and price=-2.4705307554863099E18
+27-04-2023 14:47:36.216 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:47:36.219 [task-28] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581656218 and price=5.1409985357877924E18
+27-04-2023 14:47:56.221 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:47:56.223 [task-29] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581676223 and price=-6.8522293839218555E18
+27-04-2023 14:48:03.266 [http-nio-8080-exec-6] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:48:03.267 [http-nio-8080-exec-6] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:48:16.228 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:48:16.234 [task-30] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581696231 and price=5.6088805120396759E18
+27-04-2023 14:48:36.236 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:48:36.240 [task-31] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581716238 and price=-5.3863830222652713E18
+27-04-2023 14:48:56.242 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:48:56.245 [task-32] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581736243 and price=8.025831527144364E18
+27-04-2023 14:49:16.248 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:49:16.253 [task-33] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581756251 and price=9.8905508151802432E17
+27-04-2023 14:49:36.257 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:49:36.260 [task-34] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581776258 and price=-5.2206885581454674E18
+27-04-2023 14:49:56.264 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:49:56.268 [task-35] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581796266 and price=-6.9395159831388539E18
+27-04-2023 14:50:16.272 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:50:16.276 [task-36] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581816274 and price=-7.9517789053695936E17
+27-04-2023 14:50:23.759 [http-nio-8080-exec-9] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:50:23.759 [http-nio-8080-exec-9] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:50:36.278 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:50:36.285 [task-37] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581836283 and price=-3.0131725729611612E18
+27-04-2023 14:50:56.289 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:50:56.292 [task-38] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581856291 and price=4.0298438893690835E17
+27-04-2023 14:51:16.294 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:51:16.298 [task-39] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581876295 and price=-6.9503960265021798E18
+27-04-2023 14:51:36.303 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:51:36.303 [task-40] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581896303 and price=3.9674941091839734E18
+27-04-2023 14:51:41.993 [http-nio-8080-exec-2] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:51:41.994 [http-nio-8080-exec-2] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:51:56.309 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:51:56.318 [task-41] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581916313 and price=6.7025060884663491E18
+27-04-2023 14:52:08.737 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 30538 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 14:52:08.738 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 14:52:08.738 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 14:52:09.282 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.7 seconds (JVM running for 1.061)
+27-04-2023 14:52:10.282 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:52:10.294 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581930282 and price=-4.9615380471253729E18
+27-04-2023 14:52:13.700 [http-nio-8080-exec-1] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:13.700 [http-nio-8080-exec-1] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:13.762 [http-nio-8080-exec-2] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:13.762 [http-nio-8080-exec-2] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:13.904 [http-nio-8080-exec-3] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:13.904 [http-nio-8080-exec-3] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:14.053 [http-nio-8080-exec-4] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:14.053 [http-nio-8080-exec-4] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:14.203 [http-nio-8080-exec-5] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:14.203 [http-nio-8080-exec-5] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:14.346 [http-nio-8080-exec-6] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:14.347 [http-nio-8080-exec-6] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:14.491 [http-nio-8080-exec-7] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:14.492 [http-nio-8080-exec-7] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:14.652 [http-nio-8080-exec-8] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:14.653 [http-nio-8080-exec-8] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:14.782 [http-nio-8080-exec-9] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:14.783 [http-nio-8080-exec-9] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:14.929 [http-nio-8080-exec-10] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:14.930 [http-nio-8080-exec-10] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:15.069 [http-nio-8080-exec-1] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:15.069 [http-nio-8080-exec-1] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:15.210 [http-nio-8080-exec-2] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:15.210 [http-nio-8080-exec-2] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:15.357 [http-nio-8080-exec-3] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:15.357 [http-nio-8080-exec-3] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:15.505 [http-nio-8080-exec-4] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:15.505 [http-nio-8080-exec-4] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:15.664 [http-nio-8080-exec-5] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:15.665 [http-nio-8080-exec-5] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:15.815 [http-nio-8080-exec-6] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:15.815 [http-nio-8080-exec-6] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:15.992 [http-nio-8080-exec-7] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:15.992 [http-nio-8080-exec-7] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:16.137 [http-nio-8080-exec-8] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:16.138 [http-nio-8080-exec-8] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:16.284 [http-nio-8080-exec-9] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:16.285 [http-nio-8080-exec-9] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:16.433 [http-nio-8080-exec-10] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:16.433 [http-nio-8080-exec-10] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:16.590 [http-nio-8080-exec-1] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:16.591 [http-nio-8080-exec-1] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:17.875 [http-nio-8080-exec-2] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:17.875 [http-nio-8080-exec-2] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:18.529 [http-nio-8080-exec-3] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:18.529 [http-nio-8080-exec-3] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:30.292 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:52:30.296 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581950294 and price=-1.42930408022151834E18
+27-04-2023 14:52:32.494 [http-nio-8080-exec-4] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:32.494 [http-nio-8080-exec-4] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:46.162 [http-nio-8080-exec-5] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:46.164 [http-nio-8080-exec-5] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:48.679 [http-nio-8080-exec-6] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:48.680 [http-nio-8080-exec-6] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:50.298 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:52:50.299 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581970298 and price=-8.3008175873479926E18
+27-04-2023 14:52:52.104 [http-nio-8080-exec-7] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:52.106 [http-nio-8080-exec-7] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:52:56.274 [http-nio-8080-exec-8] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:52:56.277 [http-nio-8080-exec-8] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:53:10.304 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:53:10.308 [task-4] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682581990306 and price=-5.7612783286549688E18
+27-04-2023 14:53:30.312 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:53:30.313 [task-5] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582010313 and price=-5.0995075217237279E18
+27-04-2023 14:53:50.314 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:53:50.315 [task-6] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582030314 and price=-6.2465112844582523E18
+27-04-2023 14:54:10.319 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:54:10.320 [task-7] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582050319 and price=4.1230693084659676E18
+27-04-2023 14:54:30.324 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:54:30.329 [task-8] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582070327 and price=-2.6159535894305009E18
+27-04-2023 14:54:50.332 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:54:50.336 [task-9] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582090334 and price=-1.36660059947970022E18
+27-04-2023 14:54:54.084 [http-nio-8080-exec-1] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 14:54:54.092 [http-nio-8080-exec-1] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 14:55:10.341 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:55:10.347 [task-10] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582110344 and price=-8.9371467138497751E18
+27-04-2023 14:55:30.349 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:55:30.355 [task-11] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582130352 and price=2.6461366792471537E18
+27-04-2023 14:55:50.358 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:55:50.361 [task-12] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582150359 and price=5.0453672291203062E18
+27-04-2023 14:56:10.366 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:56:10.370 [task-13] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582170369 and price=-6.0798606477579551E18
+27-04-2023 14:56:30.373 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:56:30.376 [task-14] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582190374 and price=2.23096483247580186E18
+27-04-2023 14:56:50.381 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:56:50.384 [task-15] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582210382 and price=6.2549803931635855E18
+27-04-2023 14:57:10.389 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:57:10.396 [task-16] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582230393 and price=-6.8848680594460659E17
+27-04-2023 14:57:30.401 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:57:30.406 [task-17] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582250404 and price=-3.0115196092562054E17
+27-04-2023 14:57:50.407 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:57:50.410 [task-18] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582270409 and price=-8.8129202067365417E18
+27-04-2023 14:58:10.415 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:58:10.419 [task-19] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582290417 and price=-2.8500904066164009E18
+27-04-2023 14:58:30.424 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:58:30.427 [task-20] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582310425 and price=2.8197947631004933E18
+27-04-2023 14:58:50.430 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:58:50.435 [task-21] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582330434 and price=-4.5947411537007896E16
+27-04-2023 14:59:10.436 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:59:10.440 [task-22] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582350439 and price=-5.2284653560902103E18
+27-04-2023 14:59:30.445 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 14:59:30.450 [task-23] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582370448 and price=1.57437280285314944E18
+27-04-2023 15:00:04.761 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 30966 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:00:04.762 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:00:04.762 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:00:05.297 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.695 seconds (JVM running for 1.11)
+27-04-2023 15:00:06.299 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:00:06.318 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582406300 and price=1.16596102852501216E17
+27-04-2023 15:00:26.298 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:00:26.302 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582426301 and price=8.539531261206528E17
+27-04-2023 15:00:42.806 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 31001 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:00:42.807 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:00:42.807 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:00:43.336 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.699 seconds (JVM running for 0.915)
+27-04-2023 15:00:44.340 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:00:44.357 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582444341 and price=5.5965479477783132E18
+27-04-2023 15:01:04.340 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:01:04.341 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582464341 and price=4.9367893118266737E18
+27-04-2023 15:01:14.363 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:01:24.337 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:01:24.340 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582484340 and price=7.8379930459646605E17
+27-04-2023 15:01:34.342 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:01:44.337 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:01:44.340 [task-4] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582504339 and price=-8.691958754993664E18
+27-04-2023 15:01:54.345 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:02:43.713 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 31118 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:02:43.714 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:02:43.714 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:02:44.248 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.696 seconds (JVM running for 1.028)
+27-04-2023 15:02:45.250 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:02:45.270 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582565252 and price=5.8324381289699041E18
+27-04-2023 15:03:05.264 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:03:05.265 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582585265 and price=-6.0560100768350362E18
+27-04-2023 15:03:15.274 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:03:25.270 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:03:25.271 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582605270 and price=-3.9538901639888824E18
+27-04-2023 15:03:35.271 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:03:45.275 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:03:45.280 [task-4] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582625278 and price=8.323845916642729E18
+27-04-2023 15:03:55.275 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:04:05.281 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:04:05.285 [task-5] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582645283 and price=-1.35177521782901171E18
+27-04-2023 15:04:15.286 [task-4] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:04:25.290 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:04:25.295 [task-6] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582665293 and price=5.9452068697188547E18
+27-04-2023 15:04:35.290 [task-5] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:04:45.299 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:04:45.301 [task-7] INFO  c.example.elkstack.ProductRepository.addProduct - Request add new product with name=Generated Product - 1682582685300 and price=-2.5053260584524605E18
+27-04-2023 15:04:55.300 [task-6] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:07:57.545 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 31404 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:07:57.547 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:07:57.547 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:07:58.110 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.721 seconds (JVM running for 1.108)
+27-04-2023 15:07:59.113 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:07:59.115 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682582879113 and price=4377330384446968633
+27-04-2023 15:08:29.144 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:08:49.140 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:08:49.143 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682582929143 and price=-7069530954792861174
+27-04-2023 15:09:19.150 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:09:39.153 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:09:39.157 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682582979156 and price=-191841881244877712
+27-04-2023 15:10:09.161 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:10:20.772 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 31542 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:10:20.773 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:10:20.773 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:10:21.329 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.717 seconds (JVM running for 1.061)
+27-04-2023 15:10:22.333 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:10:22.336 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583022335 and price=4491652075299857699
+27-04-2023 15:10:52.359 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:10:52.361 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583052360 and price=-3977112685428711491
+27-04-2023 15:10:52.371 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:11:37.938 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 31621 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:11:37.939 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:11:37.940 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:11:38.498 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.723 seconds (JVM running for 0.925)
+27-04-2023 15:11:39.501 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:11:39.502 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583099502 and price=3489742430315483649
+27-04-2023 15:11:59.512 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:11:59.512 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583119512 and price=-4600300239494406542
+27-04-2023 15:11:59.519 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:12:19.520 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:12:19.520 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:12:19.522 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583139521 and price=-1147395378221505591
+27-04-2023 15:12:19.967 [http-nio-8080-exec-1] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+27-04-2023 15:12:19.968 [http-nio-8080-exec-1] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+27-04-2023 15:12:39.528 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:12:39.528 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:12:39.531 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583159531 and price=3854587159814639917
+27-04-2023 15:12:59.537 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:12:59.538 [task-4] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:12:59.539 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583179539 and price=5439353422439692558
+27-04-2023 15:13:19.543 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:13:19.544 [task-5] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:13:19.544 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583199544 and price=-7311049785640882601
+27-04-2023 15:13:39.546 [task-6] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:13:39.546 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:13:39.547 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583219547 and price=-5540862897617579271
+27-04-2023 15:13:59.549 [task-7] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:13:59.549 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:13:59.550 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583239550 and price=-2681699185044009689
+27-04-2023 15:14:19.553 [task-8] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:14:19.553 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:14:19.556 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583259555 and price=1343126405430715045
+27-04-2023 15:14:39.562 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:14:39.564 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583279563 and price=-1254769492804788001
+27-04-2023 15:14:39.562 [task-9] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:14:59.567 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:14:59.567 [task-10] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:14:59.572 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583299570 and price=-869899270178789027
+27-04-2023 15:15:07.065 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 31824 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:15:07.066 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:15:07.067 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:15:07.582 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.673 seconds (JVM running for 1.084)
+27-04-2023 15:15:08.587 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:15:08.590 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583308588 and price=-8892585531227011273
+27-04-2023 15:15:13.616 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:15:18.586 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:15:18.588 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583318587 and price=2157289785009109861
+27-04-2023 15:15:23.595 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:15:28.585 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:15:28.587 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583328586 and price=8094974600603084371
+27-04-2023 15:15:33.589 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:15:35.624 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 31855 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:15:35.625 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:15:35.625 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:15:36.157 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.704 seconds (JVM running for 0.897)
+27-04-2023 15:15:37.160 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:15:37.165 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583337164 and price=-5906261324207529273
+27-04-2023 15:15:42.192 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:15:52.187 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:15:52.189 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583352188 and price=-6904570211308356648
+27-04-2023 15:15:57.196 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:16:07.201 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:16:07.202 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583367201 and price=8283400531599775427
+27-04-2023 15:16:12.207 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:16:22.212 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:16:22.213 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583382213 and price=-8601211130546236225
+27-04-2023 15:16:27.219 [task-4] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:16:37.220 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:16:37.220 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583397220 and price=6133067876401734129
+27-04-2023 15:16:42.226 [task-5] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:16:52.231 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:16:52.232 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583412232 and price=2448704314906924655
+27-04-2023 15:16:57.239 [task-6] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:17:07.241 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:17:07.241 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583427241 and price=-6656372664453884897
+27-04-2023 15:17:12.243 [task-7] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:17:22.245 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:17:22.246 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583442246 and price=4801003112934426413
+27-04-2023 15:17:27.251 [task-8] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:17:37.256 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:17:37.258 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583457258 and price=4770656936660482371
+27-04-2023 15:17:42.263 [task-9] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:17:52.268 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:17:52.269 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583472269 and price=7615875434439271961
+27-04-2023 15:17:57.275 [task-10] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:18:07.279 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:18:07.281 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583487281 and price=4252905356031908462
+27-04-2023 15:18:12.287 [task-11] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:18:22.292 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:18:22.293 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583502293 and price=6899225106628012754
+27-04-2023 15:18:27.300 [task-12] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:18:37.304 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:18:37.305 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583517305 and price=-3301924365013876502
+27-04-2023 15:18:42.309 [task-13] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:18:52.312 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:18:52.314 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583532313 and price=-2685915923457383538
+27-04-2023 15:18:57.319 [task-14] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:19:07.322 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:19:07.324 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583547324 and price=-1219409824787502795
+27-04-2023 15:19:12.328 [task-15] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:19:22.335 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:19:22.344 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583562340 and price=-5917477081243943870
+27-04-2023 15:19:27.351 [task-16] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:19:37.351 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:19:37.353 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583577353 and price=-5709732098230371199
+27-04-2023 15:19:42.359 [task-17] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:19:52.362 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:19:52.363 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583592363 and price=-8510556230894704669
+27-04-2023 15:19:57.369 [task-18] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:20:07.369 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:20:07.372 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583607371 and price=-4984280718049457646
+27-04-2023 15:20:12.378 [task-19] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:20:22.383 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:20:22.387 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583622386 and price=7837608420073961426
+27-04-2023 15:20:27.393 [task-20] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:20:37.398 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:20:37.401 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583637401 and price=8375939436368063700
+27-04-2023 15:20:42.401 [task-21] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:20:52.400 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:20:52.404 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583652403 and price=-4464535164988208657
+27-04-2023 15:20:57.407 [task-22] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:21:07.408 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:21:07.410 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583667410 and price=-9052283601400871373
+27-04-2023 15:21:12.415 [task-23] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:21:22.419 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:21:22.421 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583682420 and price=-821522054813700873
+27-04-2023 15:21:27.425 [task-24] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:21:37.428 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:21:37.430 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583697429 and price=-4682377713045828509
+27-04-2023 15:21:42.436 [task-25] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:21:52.441 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:21:52.445 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583712443 and price=-7223924760362632600
+27-04-2023 15:21:57.449 [task-26] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:22:07.454 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:22:07.456 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583727456 and price=-4078048270562293621
+27-04-2023 15:22:12.463 [task-27] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:22:22.465 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:22:22.467 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583742466 and price=4075591792062393928
+27-04-2023 15:22:27.472 [task-28] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:22:37.473 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:22:37.475 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682583757475 and price=7412363899159987837
+27-04-2023 15:22:42.481 [task-29] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:27:03.159 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 32480 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:27:03.160 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:27:03.160 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:27:03.691 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.687 seconds (JVM running for 1.022)
+27-04-2023 15:27:04.695 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:27:04.699 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584024697 and price=4317116238727384563
+27-04-2023 15:27:09.730 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:27:14.694 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:27:14.696 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584034696 and price=8372124133137098148
+27-04-2023 15:27:19.701 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:27:24.695 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:27:24.696 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584044696 and price=-2783599387882080397
+27-04-2023 15:27:29.703 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:27:34.691 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:27:34.692 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584054692 and price=-8191158483949961713
+27-04-2023 15:27:39.698 [task-4] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:27:44.694 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:27:44.696 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584064696 and price=7017085075388739601
+27-04-2023 15:27:49.702 [task-5] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:27:54.691 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:27:54.693 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584074693 and price=-1311752586511587628
+27-04-2023 15:27:59.697 [task-6] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:28:04.694 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:28:04.695 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584084695 and price=-5769565419911547568
+27-04-2023 15:28:09.700 [task-7] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:28:14.690 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:28:14.690 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584094690 and price=356551771155606837
+27-04-2023 15:28:27.052 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 32568 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:28:27.053 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:28:27.053 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:28:27.632 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.753 seconds (JVM running for 0.954)
+27-04-2023 15:28:28.636 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:28:28.639 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584108637 and price=6981404713228751859
+27-04-2023 15:28:48.657 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:28:48.658 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584128658 and price=-6751584262421957079
+27-04-2023 15:28:48.667 [task-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:29:08.664 [task-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:29:08.664 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:29:08.666 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584148666 and price=3783253372744323416
+27-04-2023 15:29:28.673 [task-3] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:29:28.673 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:29:28.674 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584168674 and price=6834472099238877827
+27-04-2023 15:30:12.807 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 32670 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:30:12.808 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:30:12.808 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:30:13.381 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.766 seconds (JVM running for 1.199)
+27-04-2023 15:30:14.384 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:30:14.385 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584214385 and price=-6327535710324543936
+27-04-2023 15:30:34.391 [scheduling-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:30:34.392 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:30:34.392 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584234392 and price=7304520893474040719
+27-04-2023 15:30:54.398 [scheduling-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:30:54.399 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:30:54.399 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584254399 and price=-5441486283423362401
+27-04-2023 15:31:14.405 [scheduling-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:31:14.409 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:31:14.410 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584274409 and price=172180031834836819
+27-04-2023 15:31:34.411 [scheduling-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:31:34.414 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:31:34.414 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584294414 and price=2777401314081064542
+27-04-2023 15:31:54.417 [scheduling-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:31:54.420 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:31:54.421 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584314420 and price=-8536728266740417538
+27-04-2023 15:32:14.424 [scheduling-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:32:14.427 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:32:14.428 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584334427 and price=-834017086259424007
+27-04-2023 15:32:34.433 [scheduling-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:32:34.435 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:32:34.435 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584354435 and price=-3537087036565117892
+27-04-2023 15:33:21.543 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 32867 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:33:21.544 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:33:21.545 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:33:22.090 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.709 seconds (JVM running for 0.918)
+27-04-2023 15:33:23.089 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:33:23.092 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584403091 and price=4403330033616907158
+27-04-2023 15:33:43.098 [scheduling-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:33:53.105 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:33:53.108 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584433107 and price=4357977069025906408
+27-04-2023 15:34:07.460 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 32914 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:34:07.461 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:34:07.461 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:34:07.973 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.676 seconds (JVM running for 0.872)
+27-04-2023 15:34:08.977 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:34:08.980 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584448979 and price=-8455160578772308672
+27-04-2023 15:34:13.993 [scheduling-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:34:23.996 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:34:23.999 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584463999 and price=-1819423235276453324
+27-04-2023 15:37:37.804 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 33107 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 15:37:37.805 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 15:37:37.805 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 15:37:38.346 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.692 seconds (JVM running for 1.047)
+27-04-2023 15:37:39.349 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:37:39.350 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584659350 and price=-2056699432191407165
+27-04-2023 15:37:44.365 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:37:54.366 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:37:54.368 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584674368 and price=4707459157474946488
+27-04-2023 15:37:59.375 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:38:09.377 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:38:09.380 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584689380 and price=6557998757144383009
+27-04-2023 15:38:14.386 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:38:24.387 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:38:24.390 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584704390 and price=5714855621466696240
+27-04-2023 15:38:29.397 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:38:39.405 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:38:39.408 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584719407 and price=-7872665197979912742
+27-04-2023 15:38:44.412 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:38:54.413 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:38:54.415 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584734415 and price=-2093375623937626414
+27-04-2023 15:38:59.421 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:39:09.426 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:39:09.428 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584749428 and price=-4116310160647818867
+27-04-2023 15:39:14.430 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:39:24.431 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:39:24.433 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584764432 and price=-4590052173093927834
+27-04-2023 15:39:29.437 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:39:39.441 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:39:39.443 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584779443 and price=-3475579221768855595
+27-04-2023 15:39:44.447 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:39:54.450 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:39:54.452 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584794451 and price=6788725635794453721
+27-04-2023 15:39:59.458 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:40:09.463 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:40:09.466 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584809465 and price=-3382601163968979502
+27-04-2023 15:40:14.472 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:40:24.477 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:40:24.479 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584824478 and price=-7086643091211681647
+27-04-2023 15:40:29.481 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:40:39.486 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:40:39.489 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584839489 and price=4042215525792184299
+27-04-2023 15:40:44.494 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:40:54.499 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:40:54.500 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584854500 and price=7836709016900704662
+27-04-2023 15:40:59.506 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:41:09.511 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:41:09.512 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584869512 and price=-3114286946727095205
+27-04-2023 15:41:14.518 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:41:24.523 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:41:24.525 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584884525 and price=-6176318308921951230
+27-04-2023 15:41:29.531 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:41:39.532 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:41:39.534 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584899533 and price=7691276514772343510
+27-04-2023 15:41:44.536 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:41:54.540 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:41:54.542 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584914542 and price=-8746825694572608955
+27-04-2023 15:41:59.546 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:42:09.548 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:42:09.551 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584929551 and price=383121858744426544
+27-04-2023 15:42:14.555 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:42:24.556 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:42:24.558 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584944557 and price=6911291709421911577
+27-04-2023 15:42:29.561 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:42:39.564 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:42:39.566 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584959565 and price=4758604819943728311
+27-04-2023 15:42:44.568 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:42:54.572 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:42:54.575 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584974574 and price=-6244873622547266179
+27-04-2023 15:42:59.581 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:43:09.586 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:43:09.587 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682584989587 and price=-575428802949839354
+27-04-2023 15:43:14.594 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:43:24.598 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:43:24.605 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585004603 and price=7231734452968711120
+27-04-2023 15:43:29.610 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:43:39.613 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:43:39.617 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585019617 and price=-9079743221169291767
+27-04-2023 15:43:44.624 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:43:54.628 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:43:54.630 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585034629 and price=-7005822113569185564
+27-04-2023 15:43:59.635 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:44:09.636 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:44:09.638 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585049637 and price=-5441849990261718794
+27-04-2023 15:44:14.644 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:44:24.648 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:44:24.650 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585064650 and price=-2110434023808411986
+27-04-2023 15:44:29.656 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:44:39.659 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:44:39.661 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585079660 and price=8026513862928933975
+27-04-2023 15:44:44.666 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:44:54.671 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:44:54.674 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585094674 and price=-7020739893570403792
+27-04-2023 15:44:59.679 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:45:09.681 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:45:09.683 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585109682 and price=-5102796748513257364
+27-04-2023 15:45:14.688 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:45:24.691 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:45:24.694 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585124693 and price=3591078541308977685
+27-04-2023 15:45:29.700 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:45:39.703 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:45:39.705 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585139704 and price=6627226500963835623
+27-04-2023 15:45:44.710 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:45:54.715 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:45:54.715 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585154715 and price=3104767332304482915
+27-04-2023 15:45:59.721 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:46:09.723 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:46:09.725 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585169724 and price=-3725520634154001978
+27-04-2023 15:46:14.728 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:46:24.730 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:46:24.732 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585184731 and price=3141428764901904941
+27-04-2023 15:46:29.737 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:46:39.739 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:46:39.741 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585199740 and price=-7657218671002503363
+27-04-2023 15:46:44.744 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:46:54.749 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:46:54.752 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585214751 and price=-5034948174357971696
+27-04-2023 15:46:59.755 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:47:09.755 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:47:09.759 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585229757 and price=-2217281907169483738
+27-04-2023 15:47:14.763 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:47:24.766 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:47:24.767 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585244767 and price=-7282089717106093574
+27-04-2023 15:47:29.771 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:47:39.776 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:47:39.778 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585259777 and price=-4022494122775180014
+27-04-2023 15:47:44.780 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:47:54.780 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:47:54.781 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585274781 and price=3801114061521739499
+27-04-2023 15:47:59.786 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:48:09.791 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:48:09.794 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585289793 and price=-7479419990588727155
+27-04-2023 15:48:14.797 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:48:24.802 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:48:24.802 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585304802 and price=8722762447496736040
+27-04-2023 15:48:29.808 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:48:39.813 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:48:39.815 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585319814 and price=-8777611613814349885
+27-04-2023 15:48:44.818 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:48:54.826 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:48:54.830 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585334829 and price=-7425374273975894019
+27-04-2023 15:48:59.842 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:49:09.851 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:49:09.852 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585349851 and price=-9047647457194489741
+27-04-2023 15:49:14.863 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:49:24.864 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:49:24.865 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585364865 and price=4469189588607556678
+27-04-2023 15:49:29.875 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:49:39.880 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:49:39.881 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585379881 and price=-4530595624730036686
+27-04-2023 15:49:44.887 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:49:54.896 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:49:54.898 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585394897 and price=4780001139706849905
+27-04-2023 15:49:59.905 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:50:09.915 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:50:09.916 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585409916 and price=-7225584807213821267
+27-04-2023 15:50:14.927 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:50:24.936 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:50:24.937 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585424937 and price=-6384183806786313200
+27-04-2023 15:50:29.941 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:50:39.947 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:50:39.947 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585439947 and price=-6918968177848956111
+27-04-2023 15:50:44.962 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:50:54.972 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:50:54.974 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585454973 and price=-7845102361143782887
+27-04-2023 15:50:59.990 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:51:10.000 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:51:10.002 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585470001 and price=410485391503323327
+27-04-2023 15:51:15.013 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:51:25.024 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:51:25.025 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585485025 and price=-3182961152366121363
+27-04-2023 15:51:30.031 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:51:40.035 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:51:40.035 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585500035 and price=-516154639115803382
+27-04-2023 15:51:45.043 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:51:55.045 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:51:55.046 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585515046 and price=9024526648047113997
+27-04-2023 15:52:00.052 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:52:10.055 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:52:10.057 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585530057 and price=1384987834130039875
+27-04-2023 15:52:15.060 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:52:25.063 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:52:25.064 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585545063 and price=-8401266699452777240
+27-04-2023 15:52:30.070 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:52:40.072 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:52:40.072 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585560072 and price=213420063985653985
+27-04-2023 15:52:45.075 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:52:55.077 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:52:55.080 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585575080 and price=-8773900720661449574
+27-04-2023 15:53:00.085 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:53:10.087 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:53:10.093 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585590092 and price=-4338152804931695461
+27-04-2023 15:53:15.100 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:53:25.104 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:53:25.106 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585605105 and price=-2034261272155001691
+27-04-2023 15:53:30.112 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:53:40.114 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:53:40.116 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585620115 and price=5431783680589300999
+27-04-2023 15:53:45.120 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:53:55.125 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:53:55.128 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585635127 and price=4784827510407751937
+27-04-2023 15:54:00.134 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:54:10.138 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:54:10.139 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585650139 and price=-7674806404451786227
+27-04-2023 15:54:15.145 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:54:25.147 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:54:25.148 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585665147 and price=-8036531522879837800
+27-04-2023 15:54:30.150 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:54:40.155 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:54:40.156 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585680156 and price=4447646418010647831
+27-04-2023 15:54:45.159 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:54:55.161 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:54:55.164 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585695164 and price=271556673606255436
+27-04-2023 15:55:00.170 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:55:10.170 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:55:10.171 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585710171 and price=-5335559032639974347
+27-04-2023 15:55:15.177 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:55:25.179 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:55:25.181 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585725181 and price=5446518055407302642
+27-04-2023 15:55:30.187 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:55:40.192 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:55:40.193 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585740193 and price=-4697280461288850862
+27-04-2023 15:55:45.198 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:55:55.200 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:55:55.203 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585755202 and price=3182402243331762135
+27-04-2023 15:56:00.208 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:56:10.211 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:56:10.213 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585770212 and price=4156817436968223280
+27-04-2023 15:56:15.216 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:56:25.221 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:56:25.223 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585785222 and price=-6436082300283098707
+27-04-2023 15:56:30.229 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:56:40.233 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:56:40.235 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585800234 and price=3411849122708419117
+27-04-2023 15:56:45.240 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:56:55.241 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:56:55.243 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585815242 and price=681583734924801116
+27-04-2023 15:57:00.244 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:57:10.254 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:57:10.258 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585830256 and price=2242352218245308646
+27-04-2023 15:57:15.263 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:57:25.270 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:57:25.272 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585845271 and price=-730440435391761739
+27-04-2023 15:57:30.278 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:57:40.284 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:57:40.286 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585860285 and price=825963957634899426
+27-04-2023 15:57:45.292 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:57:55.297 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:57:55.299 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585875298 and price=3563975464901675424
+27-04-2023 15:58:00.304 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:58:10.313 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:58:10.315 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585890314 and price=737990543343488509
+27-04-2023 15:58:15.324 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:58:25.325 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:58:25.328 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585905328 and price=-5467145609992594835
+27-04-2023 15:58:30.331 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:58:40.341 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:58:40.342 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585920342 and price=-4293083733235698124
+27-04-2023 15:58:45.353 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:58:55.355 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:58:55.357 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585935357 and price=-5339984631627304735
+27-04-2023 15:59:00.363 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:59:10.363 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:59:10.366 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585950365 and price=-8230667657928503745
+27-04-2023 15:59:15.368 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:59:25.370 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:59:25.372 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585965372 and price=8112280012267441332
+27-04-2023 15:59:30.376 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:59:40.377 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:59:40.379 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585980378 and price=5474325857243035966
+27-04-2023 15:59:45.382 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 15:59:55.383 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 15:59:55.384 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682585995383 and price=38113915861897537
+27-04-2023 16:00:00.390 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:00:10.395 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:00:10.398 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586010396 and price=4665707384803529780
+27-04-2023 16:00:15.404 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:00:25.409 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:00:25.412 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586025411 and price=-4786256160187574907
+27-04-2023 16:00:30.416 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:00:40.421 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:00:40.425 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586040422 and price=-6527281453560991635
+27-04-2023 16:00:45.431 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:00:55.434 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:00:55.435 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586055435 and price=-842326981820743316
+27-04-2023 16:01:00.438 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:01:10.443 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:01:10.444 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586070444 and price=2488474157718602936
+27-04-2023 16:01:15.451 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:01:25.455 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:01:25.455 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586085455 and price=-1886138397104284591
+27-04-2023 16:01:30.456 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:01:40.457 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:01:40.457 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586100457 and price=1550610553297112576
+27-04-2023 16:01:45.463 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:01:55.468 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:01:55.469 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586115469 and price=5772276056602443093
+27-04-2023 16:02:00.475 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:02:10.480 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:02:10.483 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586130482 and price=-3789089727784369413
+27-04-2023 16:02:15.489 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:02:25.493 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:02:25.495 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586145494 and price=-886732968042535438
+27-04-2023 16:02:30.496 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:02:40.500 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:02:40.501 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586160501 and price=3348476632837412391
+27-04-2023 16:02:45.512 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:02:55.517 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:02:55.521 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586175519 and price=6864504782985996528
+27-04-2023 16:03:00.526 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:03:10.526 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:03:10.529 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586190529 and price=-1068798687227603130
+27-04-2023 16:03:15.532 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:03:25.536 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:03:25.537 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586205536 and price=-877393480365930796
+27-04-2023 16:03:30.538 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:03:40.544 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:03:40.545 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586220544 and price=-2165552192120305393
+27-04-2023 16:03:45.551 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:03:55.551 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:03:55.553 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586235553 and price=-2540173051003687008
+27-04-2023 16:04:00.555 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:04:10.561 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:04:10.566 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586250564 and price=4989589962542720534
+27-04-2023 16:04:15.578 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:11:28.492 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:11:28.493 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586688493 and price=-4979937641862095805
+27-04-2023 16:11:33.489 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:11:43.484 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:11:43.487 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586703486 and price=-4883577152535106124
+27-04-2023 16:11:48.490 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:11:58.490 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:11:58.494 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586718493 and price=-5775096610162224070
+27-04-2023 16:12:03.497 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:12:13.501 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:12:13.502 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586733501 and price=3134835933368952456
+27-04-2023 16:12:18.504 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:12:28.508 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:12:28.510 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586748510 and price=1165550240690487552
+27-04-2023 16:12:33.515 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:12:43.519 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:12:43.521 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586763521 and price=5931019975491722820
+27-04-2023 16:12:48.527 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:12:58.529 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:12:58.530 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586778530 and price=-2376434585056009093
+27-04-2023 16:13:03.536 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:13:13.540 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:13:13.546 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586793543 and price=4016958446863628709
+27-04-2023 16:13:18.552 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:13:28.557 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:13:28.558 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586808558 and price=-8320985174806746756
+27-04-2023 16:13:33.564 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:13:43.568 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:13:43.571 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586823570 and price=-3269187216622328135
+27-04-2023 16:13:48.572 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:13:58.574 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:13:58.579 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586838576 and price=1339538205457302269
+27-04-2023 16:14:03.582 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:14:13.587 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:14:13.590 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586853589 and price=-1753310915868217044
+27-04-2023 16:14:18.592 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:14:28.597 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:14:28.600 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586868599 and price=3148529696547090196
+27-04-2023 16:14:33.601 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:14:43.603 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:14:43.606 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586883605 and price=1756767945118065442
+27-04-2023 16:14:48.611 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:14:58.616 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:14:58.619 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586898619 and price=9193646140432133252
+27-04-2023 16:15:03.625 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:15:13.628 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:15:13.634 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586913630 and price=-4503652531549669401
+27-04-2023 16:15:18.638 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:15:28.642 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:15:28.644 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586928644 and price=477889957798282571
+27-04-2023 16:15:33.647 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:15:43.649 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:15:43.652 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586943652 and price=-5882093347141447875
+27-04-2023 16:15:48.658 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:15:58.660 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:15:58.663 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586958662 and price=-4994250582052354123
+27-04-2023 16:16:03.669 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:16:13.669 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:16:13.670 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586973670 and price=-6714809816453227635
+27-04-2023 16:16:18.676 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:16:28.683 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:16:28.686 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682586988685 and price=-1297143321284039597
+27-04-2023 16:16:33.688 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:16:43.689 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:16:43.692 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587003691 and price=-6441065200574213295
+27-04-2023 16:16:48.698 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:16:58.698 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:16:58.700 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587018699 and price=-4845195404622867343
+27-04-2023 16:17:03.702 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:17:13.707 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:17:13.710 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587033709 and price=-948717240259727091
+27-04-2023 16:17:18.714 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:17:28.714 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:17:28.717 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587048716 and price=-1556347033531798372
+27-04-2023 16:17:33.721 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:17:43.726 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:17:43.729 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587063728 and price=-4390496946421876196
+27-04-2023 16:17:48.734 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:17:58.738 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:17:58.741 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587078741 and price=-3537372729731346613
+27-04-2023 16:18:03.744 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:18:13.749 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:18:13.750 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587093749 and price=6589249195157429256
+27-04-2023 16:18:18.753 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:18:28.754 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:18:28.756 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587108755 and price=-5831819670896967131
+27-04-2023 16:18:33.761 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:18:43.766 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:18:43.769 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587123768 and price=9204241703602514131
+27-04-2023 16:18:48.775 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:18:58.776 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:18:58.777 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587138776 and price=-1701099445804712373
+27-04-2023 16:19:03.781 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:19:13.786 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:19:13.788 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587153788 and price=-5802375113774361465
+27-04-2023 16:19:18.794 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:19:28.799 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:19:28.801 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587168800 and price=1890875614232541499
+27-04-2023 16:19:33.807 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:19:43.811 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:19:43.814 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587183813 and price=6162697383781258623
+27-04-2023 16:19:48.818 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:19:58.820 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:19:58.823 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587198823 and price=-8011982696390100050
+27-04-2023 16:20:03.825 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:20:13.830 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:20:13.831 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587213831 and price=7063384269861969144
+27-04-2023 16:20:18.834 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:20:28.837 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:20:28.839 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587228838 and price=5153590039254249688
+27-04-2023 16:20:33.843 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:20:43.847 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:20:43.849 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587243849 and price=2818402962519156471
+27-04-2023 16:20:48.856 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:20:58.860 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:20:58.863 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587258862 and price=4234268774192909744
+27-04-2023 16:21:03.865 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 16:21:13.863 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 16:21:13.866 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682587273865 and price=2034997939436159147
+27-04-2023 20:15:52.005 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 36662 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 20:15:52.006 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 20:15:52.006 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 20:15:52.581 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.752 seconds (JVM running for 1.155)
+27-04-2023 20:15:53.581 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:15:53.582 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601353581 and price=-5846302954697388203
+27-04-2023 20:15:57.598 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:16:07.597 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:16:07.599 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601367599 and price=1534068276671205703
+27-04-2023 20:16:10.605 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:16:58.109 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 36734 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 20:16:58.110 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 20:16:58.111 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 20:16:58.646 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.7 seconds (JVM running for 0.91)
+27-04-2023 20:16:59.650 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:16:59.653 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601419652 and price=-1641409814843034433
+27-04-2023 20:16:59.656 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Simulate the long-running task with thread by sleep: 10s
+27-04-2023 20:17:09.674 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:17:19.669 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:17:19.671 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601439670 and price=57103617223375615
+27-04-2023 20:17:19.671 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Simulate the long-running task with thread by sleep: 12s
+27-04-2023 20:17:31.677 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:17:41.682 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:17:41.684 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601461684 and price=6082612088516123361
+27-04-2023 20:17:41.685 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Simulate the long-running task with thread by sleep: 3s
+27-04-2023 20:17:44.689 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:17:54.692 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:17:54.694 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601474693 and price=-3874721139000279735
+27-04-2023 20:17:54.694 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Simulate the long-running task with thread by sleep: 17s
+27-04-2023 20:18:11.696 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:18:21.920 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 36818 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 20:18:21.921 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 20:18:21.921 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 20:18:22.441 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.667 seconds (JVM running for 1.071)
+27-04-2023 20:18:23.442 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:18:23.443 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601503443 and price=5517301926179228949
+27-04-2023 20:18:23.445 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Simulate the long-running task with thread by sleep: 1s
+27-04-2023 20:18:24.466 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:18:33.445 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:18:33.446 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601513446 and price=2283516357206514026
+27-04-2023 20:18:33.447 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Simulate the long-running task with thread by sleep: 4s
+27-04-2023 20:18:37.454 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:18:43.445 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:18:43.446 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601523446 and price=-9039509399131021949
+27-04-2023 20:18:43.446 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Simulate the long-running task with thread by sleep: 3s
+27-04-2023 20:18:46.447 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:18:53.441 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:18:53.446 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601533446 and price=-6287855797840218014
+27-04-2023 20:18:53.447 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Simulate the long-running task with thread by sleep: 2s
+27-04-2023 20:18:55.453 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:19:03.445 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:19:03.446 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601543446 and price=5567890002387470882
+27-04-2023 20:19:03.447 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Simulate the long-running task with thread by sleep: 9s
+27-04-2023 20:19:12.452 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:19:13.443 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:19:13.445 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601553444 and price=85517563907134645
+27-04-2023 20:19:13.446 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Simulate the long-running task with thread by sleep: 17s
+27-04-2023 20:19:30.452 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:19:30.452 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:19:30.453 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601570453 and price=-1015132471944127066
+27-04-2023 20:19:30.454 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Simulate the long-running task with thread by sleep: 18s
+27-04-2023 20:19:48.459 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:19:48.458 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:19:48.459 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601588459 and price=-1206606294710974385
+27-04-2023 20:19:48.459 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Simulate the long-running task with thread by sleep: 18s
+27-04-2023 20:23:49.018 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 37121 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 20:23:49.019 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 20:23:49.019 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 20:24:33.298 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 37168 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 20:24:33.299 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 20:24:33.300 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 20:24:33.930 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.845 seconds (JVM running for 1.101)
+27-04-2023 20:24:34.930 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:24:34.932 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601874931 and price=-7006801999179946823
+27-04-2023 20:24:34.943 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 10s
+27-04-2023 20:24:34.943 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:24:44.941 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:24:44.942 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601884941 and price=-6273434690529108440
+27-04-2023 20:24:44.942 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 13s
+27-04-2023 20:24:44.944 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:24:54.946 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:24:54.950 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601894947 and price=4960720045625533453
+27-04-2023 20:24:54.951 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 7s
+27-04-2023 20:24:57.946 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:25:44.020 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 37239 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 20:25:44.021 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 20:25:44.021 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 20:25:44.556 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.711 seconds (JVM running for 0.918)
+27-04-2023 20:25:45.560 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:25:45.563 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601945562 and price=7697683137426490755
+27-04-2023 20:25:45.578 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 3s
+27-04-2023 20:25:45.578 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:25:48.584 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:25:55.578 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:25:55.579 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601955579 and price=2077069940285719790
+27-04-2023 20:25:55.580 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 19s
+27-04-2023 20:25:55.580 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:26:05.581 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:26:05.583 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601965582 and price=6237309723625484785
+27-04-2023 20:26:05.584 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 10s
+27-04-2023 20:26:14.582 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:26:14.586 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:26:15.586 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:26:15.588 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:26:15.588 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601975588 and price=-6023640674373731503
+27-04-2023 20:26:15.589 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 15s
+27-04-2023 20:26:15.589 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:26:25.594 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:26:25.594 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601985594 and price=7300610710872565419
+27-04-2023 20:26:25.595 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 6s
+27-04-2023 20:26:30.594 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:26:30.596 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:26:31.600 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:26:35.600 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:26:35.602 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682601995601 and price=-8109203930757551977
+27-04-2023 20:26:35.602 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 9s
+27-04-2023 20:26:35.603 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:34:23.739 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 37741 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 20:34:23.740 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 20:34:23.740 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 20:34:24.281 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.704 seconds (JVM running for 1.061)
+27-04-2023 20:34:25.285 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:34:25.287 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602465286 and price=3719985576969569409
+27-04-2023 20:34:25.302 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 2s
+27-04-2023 20:34:25.302 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:34:27.307 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:34:35.284 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:34:35.286 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602475286 and price=-8701771195993951670
+27-04-2023 20:34:35.288 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 11s
+27-04-2023 20:34:35.289 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:34:45.284 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:34:45.286 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602485285 and price=-4432540874959745690
+27-04-2023 20:34:45.287 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 11s
+27-04-2023 20:34:46.291 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:34:46.293 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:34:55.282 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:34:55.284 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602495283 and price=3159748673143011304
+27-04-2023 20:34:55.286 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 10s
+27-04-2023 20:34:56.291 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:34:56.293 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:35:05.283 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:35:05.285 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602505284 and price=1905244349616815762
+27-04-2023 20:35:05.286 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 12s
+27-04-2023 20:35:05.289 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:35:05.290 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:35:15.284 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:35:15.285 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602515285 and price=7031501421008208300
+27-04-2023 20:35:15.286 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 4s
+27-04-2023 20:35:17.288 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:35:17.289 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:35:19.291 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:35:25.280 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:35:25.281 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602525280 and price=-4235806580360459988
+27-04-2023 20:35:25.281 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:35:25.281 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 8s
+27-04-2023 20:35:33.286 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:35:35.285 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:35:35.286 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602535286 and price=-6822370929452783672
+27-04-2023 20:35:35.287 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 15s
+27-04-2023 20:35:35.287 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:35:45.283 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:35:45.284 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602545284 and price=-3168267732614185744
+27-04-2023 20:35:45.284 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 6s
+27-04-2023 20:35:50.292 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:35:50.294 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:35:51.290 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:35:55.281 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:35:55.283 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602555283 and price=-6192227029476405666
+27-04-2023 20:35:55.284 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 17s
+27-04-2023 20:35:55.285 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:36:05.282 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:36:05.284 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602565283 and price=-3432012731201069956
+27-04-2023 20:36:05.285 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 15s
+27-04-2023 20:36:57.032 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 37874 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 20:36:57.033 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 20:36:57.033 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 20:36:57.563 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.682 seconds (JVM running for 1.008)
+27-04-2023 20:36:58.568 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:36:58.571 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602618569 and price=-2496457303344452974
+27-04-2023 20:36:58.583 [scheduling-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 3s
+27-04-2023 20:37:01.588 [scheduling-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:37:01.597 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:37:08.567 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:37:08.570 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602628569 and price=8798146058171268875
+27-04-2023 20:37:08.571 [scheduling-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 19s
+27-04-2023 20:37:27.576 [scheduling-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:37:27.579 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:37:27.579 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:37:27.580 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602647580 and price=-6005985085212644045
+27-04-2023 20:37:27.580 [scheduling-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 8s
+27-04-2023 20:37:35.582 [scheduling-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds
+27-04-2023 20:37:35.583 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:37:35.583 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:37:35.583 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602655583 and price=6098144021025379371
+27-04-2023 20:37:35.584 [scheduling-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 1s
+27-04-2023 20:37:37.919 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 37920 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+27-04-2023 20:37:37.921 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+27-04-2023 20:37:37.921 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+27-04-2023 20:37:38.453 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.69 seconds (JVM running for 0.883)
+27-04-2023 20:37:39.457 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:37:39.460 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602659459 and price=2372423164277812351
+27-04-2023 20:37:39.471 [scheduling-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 19s
+27-04-2023 20:37:58.477 [scheduling-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds. Already inserted new product
+27-04-2023 20:37:58.486 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:37:58.486 [ElkStack-1] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully
+27-04-2023 20:37:58.486 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602678486 and price=1252030773448914327
+27-04-2023 20:37:58.487 [scheduling-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 13s
+27-04-2023 20:38:11.492 [scheduling-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Long-running task was stopped after a few seconds. Already inserted new product
+27-04-2023 20:38:11.494 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Begin generate new products to store in memory...
+27-04-2023 20:38:11.495 [scheduling-1] INFO  com.example.elkstack.ProductService.generateDummyProduct - Request add new product with name=Generated Product - 1682602691495 and price=-3756364640496397027
+27-04-2023 20:38:11.495 [scheduling-1] INFO  c.example.elkstack.ProductRepository.simulateLongRunningTask - Simulate the long-running task with thread by sleep: 17s
+27-04-2023 20:38:11.495 [ElkStack-2] INFO  c.example.elkstack.ProductRepository.addProduct - Add new product successfully

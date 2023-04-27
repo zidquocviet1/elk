@@ -1,0 +1,44 @@
+20-04-2023 13:09:07.657 [http-nio-8080-exec-2] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:09:07.658 [http-nio-8080-exec-2] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:12:03.801 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 68885 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+20-04-2023 13:12:03.802 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+20-04-2023 13:12:03.802 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+20-04-2023 13:12:04.264 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.599 seconds (JVM running for 0.969)
+20-04-2023 13:12:15.128 [http-nio-8080-exec-1] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:12:15.128 [http-nio-8080-exec-1] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:28:14.439 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 70773 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+20-04-2023 13:28:14.440 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+20-04-2023 13:28:14.440 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "prod"
+20-04-2023 13:28:14.909 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.62 seconds (JVM running for 1.003)
+20-04-2023 13:28:22.198 [http-nio-8080-exec-1] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:28:22.199 [http-nio-8080-exec-1] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:28:35.606 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 70824 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+20-04-2023 13:28:35.607 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+20-04-2023 13:28:35.608 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+20-04-2023 13:28:36.168 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.787 seconds (JVM running for 0.993)
+20-04-2023 13:28:37.672 [http-nio-8080-exec-1] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:28:37.672 [http-nio-8080-exec-1] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:30:42.865 [main] INFO  c.e.elkstack.ELKStackApplication.logStarting - Starting ELKStackApplication using Java 18.0.2 on Viets-Macbook.local with PID 71112 (/Users/maiviet/Coding/Java/SpringBoot/elkstack/target/classes started by maiviet in /Users/maiviet/Coding/Java/SpringBoot/elkstack)
+20-04-2023 13:30:42.866 [main] DEBUG c.e.elkstack.ELKStackApplication.logStarting - Running with Spring Boot v2.7.3, Spring v5.3.22
+20-04-2023 13:30:42.866 [main] INFO  c.e.elkstack.ELKStackApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+20-04-2023 13:30:43.381 [main] INFO  c.e.elkstack.ELKStackApplication.logStarted - Started ELKStackApplication in 0.678 seconds (JVM running for 0.891)
+20-04-2023 13:30:48.584 [http-nio-8080-exec-1] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:30:48.584 [http-nio-8080-exec-1] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:30:51.340 [http-nio-8080-exec-3] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:30:51.341 [http-nio-8080-exec-3] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:30:52.070 [http-nio-8080-exec-4] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:30:52.070 [http-nio-8080-exec-4] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:30:52.965 [http-nio-8080-exec-5] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:30:52.965 [http-nio-8080-exec-5] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:30:53.548 [http-nio-8080-exec-6] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:30:53.548 [http-nio-8080-exec-6] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:30:53.976 [http-nio-8080-exec-7] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:30:53.976 [http-nio-8080-exec-7] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:30:54.439 [http-nio-8080-exec-8] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:30:54.439 [http-nio-8080-exec-8] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:30:54.888 [http-nio-8080-exec-10] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:30:54.889 [http-nio-8080-exec-10] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:30:56.070 [http-nio-8080-exec-1] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:30:56.070 [http-nio-8080-exec-1] INFO  com.example.elkstack.ProductService.getAll - Get product list from database
+20-04-2023 13:30:58.608 [http-nio-8080-exec-2] DEBUG c.example.elkstack.ProductController.getAll - Client request get product list
+20-04-2023 13:30:58.608 [http-nio-8080-exec-2] INFO  com.example.elkstack.ProductService.getAll - Get product list from database

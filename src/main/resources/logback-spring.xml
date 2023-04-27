@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<property name="LOG_PATH" value="logs"/>
+
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>%d{dd-MM-yyyy HH:mm:ss.SSS} %magenta([%thread]) %highlight(%-5level) %logger{36}.%M - %msg%n
+			</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="SAVE-TO-FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>${LOG_PATH}/application.log</file>
+		<encoder>
+			<pattern>%d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n</pattern>
+		</encoder>
+
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<fileNamePattern>${LOG_PATH}/log_%d{dd-MM-yyyy}.log</fileNamePattern>
+			<maxHistory>10</maxHistory>
+			<totalSizeCap>100MB</totalSizeCap>
+		</rollingPolicy>
+	</appender>
+
+	<springProfile name="dev">
+		<logger name="com.example.elkstack" additivity="false" level="debug">
+			<appender-ref ref="SAVE-TO-FILE"/>
+			<appender-ref ref="STDOUT"/>
+		</logger>
+		<root level="INFO">
+			<appender-ref ref="STDOUT"/>
+		</root>
+	</springProfile>
+
+	<springProfile name="prod">
+		<logger name="com.example.elkstack" additivity="false" level="debug">
+			<appender-ref ref="SAVE-TO-FILE"/>
+		</logger>
+		<root level="INFO">
+			<appender-ref ref="STDOUT"/>
+		</root>
+	</springProfile>
+</configuration>
